@@ -63,7 +63,8 @@ nav{
 .main img{
     display: block;
     margin: auto;
-    height: 120%;
+    height: 110%;
+    width: 50%;
     filter: drop-shadow(20px 20px 40px rgb(0, 0, 0));
 }
 .content{
@@ -79,9 +80,10 @@ nav{
     justify-content: center;
     display: flex;
     flex-direction: column;
-    width: 300px;
+    width: 280px;
     margin: auto;
-    height: 110%;
+    height: 100%;
+    padding-right: 25%;
 }
 .todo{
     cursor: url(https://th.bing.com/th/id/OIP.AMvbcxAvDxuk1v-CeR7KsQAAAA?rs=1&pid=ImgDetMain)6 19,auto;
